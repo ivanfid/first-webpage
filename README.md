@@ -1,2 +1,2 @@
 # first-webpage
-This repo will hold assets and codes to my html css training
+This repo will hold assets and codes to my html css training.
